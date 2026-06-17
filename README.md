@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @pradvik
-- 👀 I’m interested in Frontend Developement
-- 🌱 I’m currently learning HTML, CSS, JS and React.js
+- 👀 Exploring Tech and tech careers
